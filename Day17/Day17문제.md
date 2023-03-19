@@ -18,10 +18,6 @@ return하고 없으면 -1을 return 하도록 solution 함수를 완성해보세
 정수 n이 매개변수로 주어질 때 n의 각 자리 숫자의 합을 return하도록 solution 함수를 완성해주세요.
 ```
 
-|my_string|result|
-|:---:|:---:|
-|"3 + 4"|7|
-
 #### 4. OX퀴즈
 
 ```
